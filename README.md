@@ -1,9 +1,9 @@
 # Thai Baht Vending Machine Calculator
 <h2>Description</h2>
-This code is designed to operate a simple vending machine using a PIC microcontroller. It can handle coins of different denominations and calculate the amount of money inserted into the machine. The program also displays the amount of money inserted and the number of coins inserted for each denomination on an LCD screen.
+This code is designed to operate a simple vending machine using a PIC 16F877 microcontroller. It can handle coins of different denominations and calculate the amount of money inserted into the machine. The program also displays the amount of money inserted and the number of coins inserted for each denomination on an LCD screen.
 <h2>How to use</h2>
 1. Set up the hardware (PIC microcontroller, LCD screen, and coin sensors) and connect them to the appropriate pins on the PIC microcontroller.<br>
-2. Compile and upload the code to the PIC microcontroller.<br>
+2. Compile and upload the code to the PIC 16F877 microcontroller.<br>
 3. Once the code is running on the PIC microcontroller, users can insert coins of different denominations (1, 5, or 10 baht).<br>
 4. The program will keep track of the number of coins inserted and calculate the total amount of money inserted.<br>
 5. The amount of money inserted and the number of coins inserted for each denomination will be displayed on the LCD screen.<br>
